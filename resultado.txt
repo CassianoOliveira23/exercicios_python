@@ -1,0 +1,249 @@
+
+JOGO DE DADOS
+Jogador Cassiano tirou 2
+Jogador Maria tirou 3O jogador Maria venceu!
+Jogador Cassiano tirou 6
+Jogador Maria tirou 1O jogador Cassiano venceu!
+Jogador Cassiano tirou 6
+Jogador Maria tirou 3O jogador Cassiano venceu!
+Jogador Cassiano tirou 1
+Jogador Maria tirou 3O jogador Maria venceu!
+Jogador Cassiano tirou 3
+Jogador Maria tirou 1O jogador Cassiano venceu!
+Jogador Cassiano tirou 2
+Jogador Maria tirou 4O jogador Maria venceu!
+Jogador Cassiano tirou 3
+Jogador Maria tirou 2O jogador Cassiano venceu!
+Jogador Cassiano tirou 2
+Jogador Maria tirou 3O jogador Maria venceu!
+Jogador Cassiano tirou 2
+Jogador Maria tirou 4O jogador Maria venceu!
+Jogador Cassiano tirou 1
+Jogador Maria tirou 4O jogador Maria venceu!
+JOGO DE DADOS
+Jogador Cassiano tirou 3
+Jogador Maria tirou 5O jogador Maria venceu!
+Jogador Cassiano tirou 5
+Jogador Maria tirou 2O jogador Cassiano venceu!
+Jogador Cassiano tirou 5
+Jogador Maria tirou 1O jogador Cassiano venceu!
+Jogador Cassiano tirou 3
+Jogador Maria tirou 2O jogador Cassiano venceu!
+Jogador Cassiano tirou 1
+Jogador Maria tirou 4O jogador Maria venceu!
+Jogador Cassiano tirou 6
+Jogador Maria tirou 4O jogador Cassiano venceu!
+Jogador Cassiano tirou 5
+Jogador Maria tirou 4O jogador Cassiano venceu!
+Jogador Cassiano tirou 3
+Jogador Maria tirou 5O jogador Maria venceu!
+Jogador Cassiano tirou 2
+Jogador Maria tirou 4O jogador Maria venceu!
+Jogador Cassiano tirou 1
+Jogador Maria tirou 3O jogador Maria venceu!
+JOGO DE DADOS
+Jogador cassiano tirou 3
+Jogador maia tirou 3
+EMPATE
+Jogador cassiano tirou 5
+Jogador maia tirou 4O jogador cassiano venceu!
+Jogador cassiano tirou 2
+Jogador maia tirou 2
+EMPATE
+Jogador cassiano tirou 1
+Jogador maia tirou 4O jogador maia venceu!
+Jogador cassiano tirou 6
+Jogador maia tirou 4O jogador cassiano venceu!
+Jogador cassiano tirou 2
+Jogador maia tirou 5O jogador maia venceu!
+Jogador cassiano tirou 5
+Jogador maia tirou 4O jogador cassiano venceu!
+Jogador cassiano tirou 1
+Jogador maia tirou 5O jogador maia venceu!
+Jogador cassiano tirou 1
+Jogador maia tirou 5O jogador maia venceu!
+Jogador cassiano tirou 6
+Jogador maia tirou 5O jogador cassiano venceu!
+JOGO DE DADOS
+Jogador Cassiano  tirou 5
+Jogador João tirou 1O jogador Cassiano  venceu!
+Jogador Cassiano  tirou 2
+Jogador João tirou 5O jogador João venceu!
+Jogador Cassiano  tirou 2
+Jogador João tirou 5O jogador João venceu!
+Jogador Cassiano  tirou 3
+Jogador João tirou 1O jogador Cassiano  venceu!
+Jogador Cassiano  tirou 1
+Jogador João tirou 6O jogador João venceu!
+Jogador Cassiano  tirou 5
+Jogador João tirou 1O jogador Cassiano  venceu!
+Jogador Cassiano  tirou 6
+Jogador João tirou 5O jogador Cassiano  venceu!
+Jogador Cassiano  tirou 2
+Jogador João tirou 6O jogador João venceu!
+Jogador Cassiano  tirou 4
+Jogador João tirou 1O jogador Cassiano  venceu!
+Jogador Cassiano  tirou 5
+Jogador João tirou 4O jogador Cassiano  venceu!
+JOGO DE DADOS
+Jogador Mario tirou 6
+Jogador Brenda tirou 3O jogador Mario venceu!
+Jogador Mario tirou 2
+Jogador Brenda tirou 1O jogador Mario venceu!
+Jogador Mario tirou 1
+Jogador Brenda tirou 4O jogador Brenda venceu!
+Jogador Mario tirou 2
+Jogador Brenda tirou 1O jogador Mario venceu!
+Jogador Mario tirou 2
+Jogador Brenda tirou 3O jogador Brenda venceu!
+Jogador Mario tirou 3
+Jogador Brenda tirou 4O jogador Brenda venceu!
+Jogador Mario tirou 2
+Jogador Brenda tirou 6O jogador Brenda venceu!
+Jogador Mario tirou 5
+Jogador Brenda tirou 4O jogador Mario venceu!
+Jogador Mario tirou 1
+Jogador Brenda tirou 3O jogador Brenda venceu!
+Jogador Mario tirou 5
+Jogador Brenda tirou 6O jogador Brenda venceu!
+JOGO DE DADOS
+Jogador Cassiano tirou 2
+Jogador Valdiscley tirou 2
+EMPATE
+Jogador Cassiano tirou 2
+Jogador Valdiscley tirou 2
+EMPATE
+Jogador Cassiano tirou 5
+Jogador Valdiscley tirou 6O jogador Valdiscley venceu!
+Jogador Cassiano tirou 5
+Jogador Valdiscley tirou 3O jogador Cassiano venceu!
+Jogador Cassiano tirou 3
+Jogador Valdiscley tirou 6O jogador Valdiscley venceu!
+Jogador Cassiano tirou 3
+Jogador Valdiscley tirou 3
+EMPATE
+Jogador Cassiano tirou 6
+Jogador Valdiscley tirou 3O jogador Cassiano venceu!
+Jogador Cassiano tirou 6
+Jogador Valdiscley tirou 6
+EMPATE
+Jogador Cassiano tirou 2
+Jogador Valdiscley tirou 6O jogador Valdiscley venceu!
+Jogador Cassiano tirou 2
+Jogador Valdiscley tirou 6O jogador Valdiscley venceu!
+JOGO DE DADOS
+Jogador Carlos tirou 4
+Jogador Maria tirou 6O jogador Maria venceu!
+Jogador Carlos tirou 2
+Jogador Maria tirou 1O jogador Carlos venceu!
+Jogador Carlos tirou 3
+Jogador Maria tirou 5O jogador Maria venceu!
+Jogador Carlos tirou 5
+Jogador Maria tirou 2O jogador Carlos venceu!
+Jogador Carlos tirou 2
+Jogador Maria tirou 1O jogador Carlos venceu!
+Jogador Carlos tirou 5
+Jogador Maria tirou 2O jogador Carlos venceu!
+Jogador Carlos tirou 1
+Jogador Maria tirou 3O jogador Maria venceu!
+Jogador Carlos tirou 4
+Jogador Maria tirou 5O jogador Maria venceu!
+Jogador Carlos tirou 2
+Jogador Maria tirou 5O jogador Maria venceu!
+Jogador Carlos tirou 3
+Jogador Maria tirou 3
+EMPATE
+JOGO DE DADOS
+Jogador Paul tirou 4
+Jogador Jhon tirou 4
+EMPATE
+Jogador Paul tirou 5
+Jogador Jhon tirou 6O jogador Jhon venceu!
+Jogador Paul tirou 3
+Jogador Jhon tirou 5O jogador Jhon venceu!
+Jogador Paul tirou 4
+Jogador Jhon tirou 6O jogador Jhon venceu!
+Jogador Paul tirou 4
+Jogador Jhon tirou 1O jogador Paul venceu!
+Jogador Paul tirou 5
+Jogador Jhon tirou 2O jogador Paul venceu!
+Jogador Paul tirou 4
+Jogador Jhon tirou 3O jogador Paul venceu!
+Jogador Paul tirou 4
+Jogador Jhon tirou 5O jogador Jhon venceu!
+Jogador Paul tirou 1
+Jogador Jhon tirou 1
+EMPATE
+Jogador Paul tirou 5
+Jogador Jhon tirou 1O jogador Paul venceu!
+JOGO DE DADOS
+JOGO DE DADOS
+Jogador Cassiano tirou 6
+Jogador Rafaela tirou 6
+EMPATE
+Jogador Cassiano tirou 3
+Jogador Rafaela tirou 3
+EMPATE
+Jogador Cassiano tirou 6
+Jogador Rafaela tirou 2O jogador Cassiano venceu!
+Jogador Cassiano tirou 6
+Jogador Rafaela tirou 6
+EMPATE
+Jogador Cassiano tirou 5
+Jogador Rafaela tirou 4O jogador Cassiano venceu!
+Jogador Cassiano tirou 2
+Jogador Rafaela tirou 3O jogador Rafaela venceu!
+Jogador Cassiano tirou 3
+Jogador Rafaela tirou 6O jogador Rafaela venceu!
+Jogador Cassiano tirou 3
+Jogador Rafaela tirou 3
+EMPATE
+Jogador Cassiano tirou 6
+Jogador Rafaela tirou 2O jogador Cassiano venceu!
+Jogador Cassiano tirou 6
+Jogador Rafaela tirou 3O jogador Cassiano venceu!
+JOGO DE DADOS
+Jogador cassiano tirou 2
+Jogador brenda tirou 2
+EMPATE
+Jogador cassiano tirou 1
+Jogador brenda tirou 3O jogador brenda venceu!
+Jogador cassiano tirou 5
+Jogador brenda tirou 2O jogador cassiano venceu!
+Jogador cassiano tirou 2
+Jogador brenda tirou 4O jogador brenda venceu!
+Jogador cassiano tirou 5
+Jogador brenda tirou 6O jogador brenda venceu!
+Jogador cassiano tirou 4
+Jogador brenda tirou 4
+EMPATE
+Jogador cassiano tirou 2
+Jogador brenda tirou 2
+EMPATE
+Jogador cassiano tirou 5
+Jogador brenda tirou 2O jogador cassiano venceu!
+Jogador cassiano tirou 1
+Jogador brenda tirou 5O jogador brenda venceu!
+Jogador cassiano tirou 1
+JOGO DE DADOS
+Jogador Cassiano tirou 2
+Jogador Rafaela tirou 1O jogador Cassiano venceu!
+Jogador Cassiano tirou 1
+Jogador Rafaela tirou 2O jogador Rafaela venceu!
+Jogador Cassiano tirou 5
+Jogador Rafaela tirou 3O jogador Cassiano venceu!
+Jogador Cassiano tirou 3
+Jogador Rafaela tirou 3
+EMPATE
+Jogador Cassiano tirou 6
+Jogador Rafaela tirou 4O jogador Cassiano venceu!
+Jogador Cassiano tirou 4
+Jogador Rafaela tirou 6O jogador Rafaela venceu!
+Jogador Cassiano tirou 6
+Jogador Rafaela tirou 4O jogador Cassiano venceu!
+Jogador Cassiano tirou 3
+Jogador Rafaela tirou 6O jogador Rafaela venceu!
+Jogador Cassiano tirou 5
+Jogador Rafaela tirou 3O jogador Cassiano venceu!
+Jogador Cassiano tirou 5
+Jogador Rafaela tirou 3O jogador Cassiano venceu!
